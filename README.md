@@ -5,7 +5,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Невалидные ключи в списке валидных ключей в приложении KeyValidator] (https://github.com/Svetlana0406/Java1/issues/1)
+* [Невалидные ключи в списке валидных ключей в приложении KeyValidator] (https://github.com/Svetlana0406/Java1/issues/2)
 Описание процесса тестирования
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
